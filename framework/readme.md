@@ -1,6 +1,6 @@
-# DUAR: Dynamic Uncertainty-Aware Recommendation
+# SURE: Shift-aware, User-adaptive, Risk-controlled rEcommendations
 
-DUAR (Dynamic Adaptive Uncertainty Risk minimization) is a framework for dynamically calibrating and aggregating predictions from multiple sequential recommender models, under user-level uncertainty constraints.
+SURE (Shift-aware, User-adaptive, Risk-controlled rEcommendations) is a framework for dynamically calibrating and aggregating predictions from multiple sequential recommender models, under user-level uncertainty constraints.
 
 ## 📁 Project Structure
 
@@ -11,7 +11,7 @@ DUAR (Dynamic Adaptive Uncertainty Risk minimization) is a framework for dynamic
 ├── outputs/             # Generated results
 ├── datasets/            # Raw evaluation files (input)
 ├── datasets_/           # Normalized evaluation files (output)
-├── duar.sh              # Shell script to run DUAR
+├── sure.sh              # Shell script to run DUAR
 ├── main_.py             # Main driver to run DAUR
 ├── run_daur_.py         # Core DAUR logic
 ```
