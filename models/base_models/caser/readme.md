@@ -1,4 +1,4 @@
-# DAUR
+
 <h1>Step 2: Training Caser Model and Generating Scores</h1>
 
 <h2>Overview</h2>
