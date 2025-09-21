@@ -1,5 +1,4 @@
 
-# DAUR
 <h1>Step 2: Train FMLPRec Model and Generate Scores</h1>
 
 <h2>Overview</h2>
