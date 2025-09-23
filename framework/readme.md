@@ -33,7 +33,7 @@ pip install pandas numpy scikit-learn torch
 
 ### Step 1: Normalize Evaluation Files
 
-This step converts raw CSVs into a format DUAR expects:
+This step converts raw CSVs into a format SURE expects:
 
 ```bash
 python data/loader.py --dataset sasrec --subdataset goodreads --output_root datasets_
